@@ -1,7 +1,9 @@
 # =============================================================================
 # Dependencias del proyecto BI_T2_CardenasNicolas
-# Proyecto: Análisis y modelamiento de patrones sísmicos en Chile (2012–2025)
+# Proyecto: Modelamiento de patrones sísmicos en Chile a través de regresión, clasificación y clustering
 # =============================================================================
+
+# Python 3.12.10
 
 # Procesamiento de datos
 pandas==2.3.3
